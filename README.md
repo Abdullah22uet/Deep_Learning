@@ -17,3 +17,10 @@
 #### ANN vs CNN
 #### ANN Accuracy Performance : 84%
 #### CNN Accuracy Performance : 90%
+
+#### <--------------------------------------------------------------------------------------------------->
+### Flowers Dataset
+#### It is multiclass-classification model which is trained on groups of 5 different :point_right:rgb images e.g, daisy flower,dandelion flower,roses,sunflowers and tulips etc.
+#### CNN and its improvement with Data Augmentation
+#### CNN before using Data Augmentation Accuracy Performance : 65%
+#### CNN after using Data Augmentation Accuracy Performance : 70%
